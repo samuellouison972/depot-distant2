@@ -1,6 +1,1 @@
-Initialisation du fichi
-klklkl
-ljklj,
-klkl
-lkl
-er2.
+Initialisation du fichier
